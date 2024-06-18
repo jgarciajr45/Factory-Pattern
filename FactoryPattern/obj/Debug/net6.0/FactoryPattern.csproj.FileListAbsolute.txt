@@ -1,0 +1,15 @@
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/jesusgarcia/Desktop/Repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll

@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Enter the number of tires for the vehicle (2, 4, 6):");
+            string numberOfTires = Console.ReadLine();
+
+            try
+            {
+                IVehicle vehicle = VehicleFactory.GetVehicle(numberOfTires);
+                vehicle.Drive();
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }
+          
