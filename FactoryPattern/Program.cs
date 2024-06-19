@@ -12,7 +12,7 @@
                 IVehicle vehicle = VehicleFactory.GetVehicle(numberOfTires);
                 vehicle.Drive();
             }
-            catch (ArgumentException e)
+            catch (ArgumentException e)        //tested try catch to catch errors. first time...
             {
                 Console.WriteLine(e.Message);
             }
